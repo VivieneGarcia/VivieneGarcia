@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 - 😎 I’m **Vivs**, a Computer Science student by day, digital illustrator by night. 
-- 💻 My current focus areas include **full-stack web development** and **UI/UX design** 
+- 💻 My current focus areas include **full-stack development** and **UI/UX design** 
 - 🌱 Currently learning React with TypeScript
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I always have mint candy on me.
