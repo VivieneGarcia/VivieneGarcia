@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**VivieneGarcia/VivieneGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/VivieneGarcia/VivieneGarcia/blob/main/sickbig.png" width="120" alt="smile:)" />
 
-Here are some ideas to get you started:
+### Hi there 👋
+- 😎 I’m **Vivs**, a Computer Science student by day, digital illustrator by night. 
+- 💻 My current focus areas include **full-stack web development** and **UI/UX design** 
+- 🌱 Currently learning React with TypeScript
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I always have mint candy on me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Candy Powered](https://img.shields.io/badge/🍬-candy--powered-ffdd57?style=flat&labelColor=fff2af&color=ffdd57)](https://www.mentos.com.ph/products/pure-fresh-strawberry)
+[![Illustrator](https://img.shields.io/badge/🎨-digital--illustrator-ffaa33?style=flat&labelColor=ffe6c7&color=ffaa33)](https://www.tiktok.com/@vivsss_g)
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=VivieneGarcia&show_icons=true&theme=great-gatsby" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivieneGarcia&layout=compact&theme=great-gatsby" />
+</p>
+
